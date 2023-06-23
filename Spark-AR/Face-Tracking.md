@@ -1,1 +1,1 @@
-Face Tracking
+En esta sección veremos qué herramientas nos ofrece Spark AR para hacer un seguimiento de una cara y poder aplicar efectos en ella
