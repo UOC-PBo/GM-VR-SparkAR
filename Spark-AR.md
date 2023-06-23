@@ -1,4 +1,6 @@
-En este tutorial veremos cómo utilizar Spark AR para desarrollar nuestras primeras aplicaciones
+En este tutorial veremos cómo utilizar Spark AR para desarrollar nuestras primeras aplicaciones.
+
+Antes de empezar, deberéis instalaros [Spark Studio](https://sparkar.facebook.com/ar-studio/) y usar vuestra cuenta de Meta (Facebook).
 
 Objetivos:
 
