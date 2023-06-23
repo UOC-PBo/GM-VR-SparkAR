@@ -4,7 +4,7 @@ Antes de empezar, deberéis instalaros [Spark Studio](https://sparkar.facebook.c
 
 Objetivos:
 
-- [FaceTracking] Rastrear la cara a través de la cámara y usar el FaceTracking para anclar contenido 2D/3D, como máscaras faciales e imágenes, en la escena. 
+- [FaceTracking](face_tracking) Rastrear la cara a través de la cámara y usar el FaceTracking para anclar contenido 2D/3D, como máscaras faciales e imágenes, en la escena. 
 - [Materiales] Utilizar materiales y texturas para crear experiencias visuales interactivas. 
 - [3D] Importar y animar contenidos 3D, incluido BlendShapes. 
 - [Efectos] Programar sus efectos para que sean más dinámicos e interactivos con patch editor.  
