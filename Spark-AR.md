@@ -2,7 +2,7 @@ En este tutorial veremos cómo utilizar Spark AR para desarrollar nuestras prime
 
 Antes de empezar, deberéis instalaros [Spark Studio](https://sparkar.facebook.com/ar-studio/) y usar vuestra cuenta de Meta (Facebook).
 
-Objetivos:
+Podéis utilizar los siguientes links para lograr los objetivos de esta serie de tutoriales:
 
 - [FaceTracking](face_tracking) Rastrear la cara a través de la cámara y usar el FaceTracking para anclar contenido 2D/3D, como máscaras faciales e imágenes, en la escena. 
 - [Materiales] Utilizar materiales y texturas para crear experiencias visuales interactivas. 
