@@ -6,7 +6,6 @@ Podéis seguir [este link](Spark-AR/Studio) para tener una primera impresión de
 Podéis utilizar los siguientes links para lograr los objetivos de esta serie de tutoriales:
 
 - [FaceTracking](Spark-AR/Face-Tracking): Rastrear la cara a través de la cámara y usar el FaceTracking para anclar contenido 2D/3D, como máscaras faciales e imágenes, en la escena. 
-- [Materiales](Spark-AR/Materiales): Utilizar materiales y texturas para crear experiencias visuales interactivas. 
 - [3D](Spark-AR/3D): Importar y animar contenidos 3D, incluido BlendShapes. 
 - [Efectos](Spark-AR/Efectos): Programar sus efectos para que sean más dinámicos e interactivos con patch editor.  
 - [Segmentación](Spark-AR/Segmentacion): Utilizar la segmentación para extraer el usuario del entorno y colocarlo en un entorno completamente nuevo.  
