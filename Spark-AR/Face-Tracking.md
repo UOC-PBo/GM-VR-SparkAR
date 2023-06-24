@@ -4,4 +4,7 @@ Antes de empezar, vamos a aclarar qué significa Face tracking en este contexto.
 
 Empezaremos abriendo un proyecto nuevo en Spark Studio  
 ![image](uploads/bb916e710de3206f3bd7e78b81ebadd0/image.png)
-Podéis ver que el proyecto ya viene configurado con un ejemplo de vídeo para simular lo que podría estar viendo una cámara
+Podéis ver que el proyecto ya viene configurado con un ejemplo de vídeo para simular lo que podría estar viendo una cámara. Añadir Face tracking es tan simple como apretar el botón derecho del ratón en la zona de la escena.
+![image](uploads/97a06d84915b218d275dd792e7b1d796/image.png)
+Veréis como después de añadir el face tracking la imágen en el viewport incluye los ejes que indican la orientación del rostro detectado
+![image](uploads/e478bfab7b175eea2addf2257133794a/image.png)
