@@ -8,3 +8,13 @@ Podéis ver que el proyecto ya viene configurado con un ejemplo de vídeo para s
 ![image](uploads/97a06d84915b218d275dd792e7b1d796/image.png)
 Veréis como después de añadir el face tracking la imágen en el viewport incluye los ejes que indican la orientación del rostro detectado
 ![image](uploads/e478bfab7b175eea2addf2257133794a/image.png)
+Añadir Face tracking en sí mismo no tiene mucha utilidad. Ahora vamos a incluir todo lo necesario para que nuestro proyecto produzca un primer efecto en la cara detectada por la cámara. Primero añadimos un Face mesh, que es una representación 3D de la geometría de la cara detectada. No hay más que apretar el botón derecho encima del Face tracker, y seleccionar Add Object y Face mesh.
+![image](uploads/f273d925a956d76cf5e19d7ee29f31c7/image.png)
+Ahora usaremos esta geometría añadiendo materiales que quedarán asociados al Face mesh. Crear un material es tan sencillo como seleccionar el Face mesh que acabamos de crear, y en la sección Materials, en el inspector de propiedades, apretar el botón +
+![image](uploads/2ecfb2a72ba79befda5b5b2630ecbc4d/image.png)
+Esta acción crea un material que está asociado al Face mesh, y que podemos ver en la sección de Assets del proyecto
+![image](uploads/4e3f0bff2864e1437de07a9b36c4e45a/image.png)
+Los materiales sirven en esencia para definir texturas y shaders. Un shader es un pequeño programa que indica cómo queremos que se visualicen los objetos y sus texturas, aplicando efectos. Un ejemplo clásico de shaders son los que crean efectos de dibujos animados, en contraste con los que intentan generar imágenes realistas. En nuestro caso, seleccionaremos el shader face paint, haciendo click en el material y luego Face paint en el desplegable de Shader Type.
+![image](uploads/cfe1288cac2d8adb3d91184a67207791/image.png)
+Podréis ver que el efecto del shader resulta en, como indica el nombre, dar la impresión de que se está pintando encima del rostro detectado. Ya solo queda añadir la textura. Qué textura poner depende de vuestra libertad creativa, y del efecto que queráis hacer. En nuestro caso, simplemente añadiremos un bigote y barbilla simpáticos. Esta textura la podéis generar a mano, o bien buscarla por internet.
+![image](uploads/6549c959dd7c532ac6461dfbbb964705/image.png)
