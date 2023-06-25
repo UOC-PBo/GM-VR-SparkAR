@@ -12,3 +12,4 @@ Empecemos por hacer un efecto sencillo con un objeto 3D. Pondremos un sombrero e
 
 2. Animaciones
 
+[Ejemplo](https://sparkar.facebook.com/ar-studio/learn/tutorials/3d-objects-animation)
