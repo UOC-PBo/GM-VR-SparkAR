@@ -7,7 +7,7 @@ Podéis utilizar los siguientes links para lograr los objetivos de esta serie de
 - [FaceTracking](Spark-AR/Face-Tracking): Rastrear la cara a través de la cámara y usar el FaceTracking para anclar contenido 2D/3D, como máscaras faciales e imágenes, en la escena.
 - [PlaneTracker](Spark-AR/PlaneTracker): Utilizar el PlaneTracker para colocar objectos 3D en la vista de la cámara.
 - [Objetos 3D](Spark-AR/3D): Importar contenidos 3D y usarlos en los efectos.
-- [Animaciones](Spark-AR/3D): Importar y animar contenidos 3D, incluido BlendShapes.
+- [Animaciones](Spark-AR/Animaciones): Importar y animar contenidos 3D, incluido BlendShapes.
 - [Efectos](Spark-AR/Efectos): Programar sus efectos para que sean más dinámicos e interactivos con patch editor.
 - [Segmentación](Spark-AR/Segmentacion): Utilizar la segmentación para extraer el usuario del entorno y colocarlo en un entorno completamente nuevo.
 - [Sonido](Spark-AR/Sonido): Manipular el sonido o la voz del usuario.
