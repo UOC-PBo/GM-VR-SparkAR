@@ -1,2 +1,3 @@
 En esta sección aprenderemos a trabajar con animaciones. El primer paso será bajarnos [este ejemplo](https://sparkar.facebook.com/ar-studio/learn/tutorials/3d-objects-animation) de Meta (la empresa creadora de Spark) para tener una base con los elementos necesarios para ver los diversos aspectos.
 
+Las animaciones en Spark AR se controlan mediante un Animation Playback Controller. Creamos uno haciendo click derecho en la sección de 
