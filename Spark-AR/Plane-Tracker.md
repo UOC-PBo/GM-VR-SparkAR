@@ -1,1 +1,3 @@
 En esta sección veremos cómo utilizar un Plane Tracker en Spar AR para detectar superficies planas. El concepto es similar al [Face tracking](Spark-AR/Face-Tracking) que hemos visto en la sección correspondiente, ya que ese sistema utiliza la cámara para detectar un rostro y ejecutar acciones, mientras que un Plane tracker detecta una superficie plana para ejecutar las acciones que hayamos programado en nuestro efecto.
+
+![image](uploads/a63007401a8216d69f9616c3e1733da6/image.png)
