@@ -1,2 +1,1 @@
-
-[Ejemplo](https://sparkar.facebook.com/ar-studio/learn/tutorials/3d-objects-animation)
+En esta sección aprenderemos a trabajar con animaciones. El primer paso será bajarnos este [ejemplo](https://sparkar.facebook.com/ar-studio/learn/tutorials/3d-objects-animation) de Meta (la empresa creadora de Spark) 
