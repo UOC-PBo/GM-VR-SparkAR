@@ -1,0 +1,7 @@
+En esta sección vamos a aprender a añadir efectos de sonido
+
+Empezaremos con un proyecto vacío, e importaremos algún archivo de sonido de la librería de Spark. A continuación, crearemos en la sección de Assets un Audio Playback Controller
+
+![image](uploads/6648d64494f111644246b918e82c33da/image.png) Este controlador necesita ser configurado para decirle qué audio tiene que reproducir. Para ello, vamos a las propiedades y en el desplegable de Audio seleccionamos el archivo que acabamos de importar ![image](uploads/67dac6f892b8610e0faafc0ad1c8c1d8/image.png) Seguidamente, hay que configurar la escena para que este controlador esté presente. En concreto, tenemos que añadir un Speaker, que es lo que le indica a Spark que la escena tiene sonido ![image](uploads/51d96b49c946b1aadba0817124b03da5/image.png) Como un proyecto puede tener varios controladores de sonido, hay que configurar el Speaker que acabamos de crear para que utilice el controlador que hemos añadido anteriormente ![image](uploads/2827d22676415cacb6e8f9733aed4f52/image.png)Ya sólo nos queda indicarle al controlador que haga Play para que se escuche en la escena!
+
+![image.png](uploads/23cf382c62e78b030b521dcb1c9f4f41/image.png)
