@@ -9,5 +9,5 @@ Podéis utilizar los siguientes links para lograr los objetivos de esta serie de
 - [Objetos 3D](Spark-AR/Objetos-3D): Importar contenidos 3D y usarlos en los efectos.
 - [Animaciones](Spark-AR/Animaciones): Importar y animar contenidos 3D.
 - [Efectos](Spark-AR/Efectos): Programar efectos para que sean más dinámicos e interactivos con patch editor.
-- [Segmentación](Spark-AR/Segmentacion): Utilizar la segmentación para extraer el usuario del entorno y colocarlo en un entorno completamente nuevo.
+- [Segmentación](Spark-AR/Segmentación): Utilizar la segmentación para extraer el usuario del entorno y colocarlo en un entorno completamente nuevo.
 - [Sonido](Spark-AR/Sonido): Manipular el sonido o la voz del usuario.
