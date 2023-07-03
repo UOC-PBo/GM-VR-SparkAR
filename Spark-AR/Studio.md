@@ -9,8 +9,12 @@ En esta sección veremos cómo navegar la interfaz de Spark Studio. Es important
 ![image](uploads/740220162370a86cc6d4406823ab9454/image.png)
 
 - Propiedades: Cada recurso tanto en la sección de Assets como en la sección de Scene puede tener diversas propiedades. Estas se pueden configurar en la parte derecha del editor, y dependerán de qué esté seleccionado en Assets o Scene. En el caso de la imágen de a continuación hemos seleccionado el micrófono:
-- 
+ 
 ![image](uploads/fc04fb80f5761e59dcb4fe9703a47321/image.png) 
+
+- Patch editor: Para crear efectos complejos Spark Studio nos ofrece una herramienta donde visualmente podremos crear comportamientos avanzados. Se trata de una interfaz donde conectaremos nodos unos con otros, y donde cada nodo representa o bien una acción, o bien una propiedad afectada por la acción. En el tutorial de Patch Editor veréis con más detalle esta sección
+
+![image](uploads/53d33c9b9ccf8db12720a708f0da91ac/image.png)
 
 - Exportar: Los efectos se pueden probar en el dispositivo que tengamos. Para ello debemos bajar e instalar en el smartphone las aplicaciones que nos indica Spark Studio
 
