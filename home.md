@@ -1,3 +1,3 @@
 Spark AR Wiki
-- TOC
-{:toc}
+
+[[_TOC_]]
