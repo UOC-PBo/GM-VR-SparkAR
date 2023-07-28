@@ -18,4 +18,4 @@ Podéis utilizar los siguientes links para lograr los objetivos de esta serie de
 
 
 Por favor diríjanse a la página sobre Spark AR
-[[Spark-AR]](Spark-AR)
+[[Spark-AR]](Spark-AR/README.md)
