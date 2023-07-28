@@ -1,5 +1,22 @@
 # Spark AR
 
+## Official Software Resources
+
+- [LATEST NEWS](https://developers.facebook.com/blog/spark_ar_studio/)
+
+- [A categorized Spark AR collection resources](https://github.com/Spark-AR-Community/awesome-spark-ar)
+
+- [The Meta Spark AR Tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials)
+ 
+
+## Requirements
+
+[Download Spark AR Studio](https://sparkar.facebook.com/ar-studio)
+
+## Getting started
+
+After installing Spark AR Studio, go to [Spark-AR Folder](Spark-AR/README.md) and start following the tutorials.
+
 En este tutorial veremos cómo utilizar Spark AR para desarrollar nuestras primeras aplicaciones.
 
 Antes de empezar, deberéis instalaros [Spark Studio](https://sparkar.facebook.com/ar-studio/) y usar vuestra cuenta de Meta (Facebook). 
