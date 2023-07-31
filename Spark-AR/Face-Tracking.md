@@ -20,3 +20,6 @@ Podréis ver que el efecto del shader resulta en, como indica el nombre, dar la 
 ![image](uploads/6549c959dd7c532ac6461dfbbb964705/image.png)
 Y ya está! Una vez seleccionado, nuestro efecto ya estará terminado.
 ![image](uploads/d9c1aab75831dca3c35cebb02d9e99f7/image.png)
+
+---
+[Página previa](README.md) - [página siguiente](PlaneTracker.md)
