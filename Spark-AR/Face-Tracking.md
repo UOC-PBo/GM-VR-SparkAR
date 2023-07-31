@@ -22,4 +22,4 @@ Y ya está! Una vez seleccionado, nuestro efecto ya estará terminado.
 ![image](uploads/d9c1aab75831dca3c35cebb02d9e99f7/image.png)
 
 ---
-[Página previa](README.md) - [página siguiente](PlaneTracker.md)
+[Página previa](README.md) - [página siguiente](Plane-Tracker.md)
