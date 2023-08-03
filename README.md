@@ -33,4 +33,4 @@ Podéis utilizar los siguientes enlaces para lograr los objetivos de esta serie 
 
 
 Por favor, diríjanse a la página sobre Spark AR
-[[Spark-AR]](Spark-AR/README.md)
+[[Spark-AR]](Spark-AR/README.md).
