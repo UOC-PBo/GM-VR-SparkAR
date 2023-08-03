@@ -15,4 +15,4 @@ Podéis utilizar los siguientes links para lograr los objetivos de esta serie de
 - [Sonido](Sonido.md): Manipular el sonido o la voz del usuario.
 
 ---
-[Página previa](README.md) - [página siguiente](Studio.md)
+[Página siguiente](Studio.md)
