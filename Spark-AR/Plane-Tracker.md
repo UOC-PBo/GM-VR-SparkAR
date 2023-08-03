@@ -19,4 +19,4 @@ En nuestro ejemplo hemos escogido el objeto Wolf Head Statuine y, al hacerlo, no
 De esta manera, el objeto se quedará fijo respecto al plano, mientras la cámara se mueve alrededor del espacio. ¡Y ya tenemos nuestro efecto con un _plane tracker_! Es posible que haga falta ajustar cuestiones como la rotación o escala del objeto en la escena. Es normal, ya que a veces los objetos están modelados con dimensiones diferentes (por ejemplo, pulgadas frente a centímetros) y hay que ajustar la escala.
 
 ---
-[Página previa](Plane-Tracker.md) - [página siguiente](Objetos-3D.md)
+[Página previa](Face-Tracking.md) - [página siguiente](Objetos-3D.md)
