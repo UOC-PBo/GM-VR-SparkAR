@@ -4,7 +4,7 @@ En esta sección veremos cómo navegar la interfaz de Spark Studio. Es important
 
 ![image](uploads/e1eef1c65109cb092258d97cc84c1e5a/image.png)
 
-- Scene: la definición de qué recursos utiliza la experiencia y cómo está estructurada se suele incluir en una sección llamada Scene. De nuevo, Spark Studio. Un proyecto puede contener varias escenas para definir múltiples efectos. De esta manera no tenemos que mantener múltiples proyectos con recursos distintos y trabajar solo en uno.
+- Scene: la definición de qué recursos utiliza la experiencia y cómo está estructurada se suele incluir en una sección llamada Scene. De nuevo, Spark Studio. Un proyecto puede contener varias escenas para definir múltiples efectos. De esta manera, no tenemos que mantener múltiples proyectos con recursos distintos y trabajar solo en uno.
 
 ![image](uploads/740220162370a86cc6d4406823ab9454/image.png)
 
