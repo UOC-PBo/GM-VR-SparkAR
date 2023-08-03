@@ -13,3 +13,6 @@ Podéis utilizar los siguientes links para lograr los objetivos de esta serie de
 - [Patch Editor](Patch-Editor.md): Programar efectos para que sean más dinámicos e interactivos con patch editor.
 - [Segmentación](Segmentación.md): Utilizar la segmentación para extraer el usuario del entorno y colocarlo en un entorno completamente nuevo.
 - [Sonido](Sonido.md): Manipular el sonido o la voz del usuario.
+
+---
+[Página previa](README.md) - [página siguiente](Studio.md)
