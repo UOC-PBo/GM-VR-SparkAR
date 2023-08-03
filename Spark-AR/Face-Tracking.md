@@ -39,4 +39,4 @@ Podréis ver que el efecto del _shader_ resulta en, como indica el nombre, dar l
 ![image](uploads/d9c1aab75831dca3c35cebb02d9e99f7/image.png)
 
 ---
-[Página previa](README.md) - [página siguiente](Plane-Tracker.md)
+[Página previa](Studio.md) - [página siguiente](Plane-Tracker.md)
