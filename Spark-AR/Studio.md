@@ -23,4 +23,4 @@ En esta sección veremos cómo navegar la interfaz de Spark Studio. Es important
 Una vez probadas, se pueden publicar clicando en el botón de Publish y siguiendo las instrucciones.
 
 ---
-[Página previa](README.md) - [página siguiente](Plane-Tracker.md)
+[Página previa](README.md) - [página siguiente](Face-Tracking.md)
