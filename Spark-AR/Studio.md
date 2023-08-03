@@ -19,6 +19,7 @@ En esta sección veremos cómo navegar la interfaz de Spark Studio. Es important
 - Exportar: los efectos se pueden probar en el dispositivo que tengamos. Para ello, debemos bajar e instalar en el teléfono las aplicaciones que nos indica Spark Studio.
 
 ![image](uploads/e501242c05402c541acb040f1cb9d5c3/image.png)
+
 Una vez probadas, se pueden publicar clicando en el botón de Publish y siguiendo las instrucciones.
 
 [Página previa](README.md) - [página siguiente](Plane-Tracker.md)
