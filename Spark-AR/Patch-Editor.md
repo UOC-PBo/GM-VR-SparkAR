@@ -14,7 +14,7 @@ Haciendo clic derecho podemos acceder al menú donde veremos qué acciones podem
 
 ![image](uploads/1360b96519fb90a92a29c24308c2b3bd/image.png)
 
-Como podréis ver, hay muchísimas opciones y no sería practicable explicarlas todas en un tutorial. En la sección de [Animaciones](Spark-AR/Animaciones) veréis un ejemplo de cómo utilizar algunas de las acciones disponibles, como por ejemplo hacer que una animación se repita.
+Como podréis ver, hay muchísimas opciones y no sería practicable explicarlas todas en un tutorial. En la sección de [Animaciones](Animaciones.md) veréis un ejemplo de cómo utilizar algunas de las acciones disponibles, como por ejemplo hacer que una animación se repita.
 
 - Scripting en Spark
 
