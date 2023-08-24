@@ -24,7 +24,7 @@ Podéis seguir [este enlace](Spark-AR/Studio.md) para tener una primera impresi�
 Podéis utilizar los siguientes enlaces para lograr los objetivos de esta serie de tutoriales:
 
 - [Face Tracking](Spark-AR/Face-Tracking.md): rastrear la cara a través de la cámara y usar el _face tracking_ para anclar contenido 2D/3D, como máscaras faciales e imágenes, en la escena.
-- [Plane Tracker](Spark-AR/Plane-Tracker.md): utilizar el _plane tracker_ para colocar objectos 3D en la vista de la cámara.
+- [Plane Tracker](Spark-AR/Plane-Tracker.md): utilizar el _plane tracker_ para colocar objetos 3D en la vista de la cámara.
 - [Objetos 3D](Spark-AR/Objetos-3D.md): importar contenidos 3D y usarlos en los efectos.
 - [Animaciones](Spark-AR/Animaciones.md): importar y animar contenidos 3D.
 - [Patch Editor](Spark-AR/Patch-Editor.md): programar efectos para que sean más dinámicos e interactivos con Patch Editor.
