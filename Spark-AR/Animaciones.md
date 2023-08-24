@@ -4,7 +4,7 @@ Las animaciones en Spark AR se controlan mediante un _animation playback control
 
 ![image](uploads/184f005fc66e4969e5922e8bce190462/image.png)
 
-Ahora le vamos a indicar al _animation playback controller_ que queremos que gestione la animación que tenemos en el proyecto para el osos de peluche.
+Ahora le vamos a indicar al _animation playback controller_ que queremos que gestione la animación que tenemos en el proyecto para el oso de peluche.
 
 ![image](uploads/0f61b22d5bf2f7110d977f1a9b5b2dc2/image.png)
 
@@ -28,7 +28,7 @@ En nuestro ejemplo tenemos el Teddy con el esqueleto ya definido. Si vamos recor
 
 ![image.png](uploads/2844fb11141bc72d9dd918f2cd975485/image.png)
 
-Ahora vamos a crear una animación a mano, sin utilizar las animaciones ya definidas en el modelo. El primer paso es borrar el _animation playback controller_, porque, sino, Spark AR siempre lo tomará como el sistema que controla el movimiento del objeto. Seguidamente, haremos clic en la articulación que queremos animar. En este caso, vamos a animar el brazo derecho, por lo que seleccionaremos arm_r. Cuando cliquemos en la flecha de la propiedad de rotación, se nos creará un Patch y veremos el Patch Editor en la parte inferior de Spark Studio.
+Ahora vamos a crear una animación a mano, sin utilizar las animaciones ya definidas en el modelo. El primer paso es borrar el _animation playback controller_, porque, si no, Spark AR siempre lo tomará como el sistema que controla el movimiento del objeto. Seguidamente, haremos clic en la articulación que queremos animar. En este caso, vamos a animar el brazo derecho, por lo que seleccionaremos arm_r. Cuando cliquemos en la flecha de la propiedad de rotación, se nos creará un Patch y veremos el Patch Editor en la parte inferior de Spark Studio.
 
 ![image.png](uploads/b02e8b809db60b416246c677f4618a5c/image.png)
 
