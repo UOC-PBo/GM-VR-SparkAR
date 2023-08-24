@@ -1,4 +1,4 @@
-En esta sección, veremos cómo utilizar Plane Tracker en Spark AR para detectar superficies planas. El concepto es similar al [_face tracking_](Spark-AR/Face-Tracking) que hemos visto en la sección correspondiente, ya que ese sistema utiliza la cámara para detectar un rostro y ejecutar acciones, mientras que un _plane tracker_ detecta una superficie plana para ejecutar las acciones que hayamos programado en nuestro efecto.
+En esta sección, veremos cómo utilizar Plane Tracker en Spark AR para detectar superficies planas. El concepto es similar al [_face tracking_](Spark-AR/Face-Tracking.md) que hemos visto en la sección correspondiente, ya que ese sistema utiliza la cámara para detectar un rostro y ejecutar acciones, mientras que un _plane tracker_ detecta una superficie plana para ejecutar las acciones que hayamos programado en nuestro efecto.
 
 El primer paso es añadir un _plane tracker_ a la escena:
 
