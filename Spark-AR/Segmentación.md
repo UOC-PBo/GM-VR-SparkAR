@@ -26,7 +26,7 @@ Ahora seleccionamos la cámara y añadiremos Segmentation, que es el sistema de 
 
 ![image.png](uploads/df6cada3b4a1ee2904e4b3ea3c86a9bd/image.png)
 
-Finalmente, solo queda seleccionar de nuevo el material, activar el Alpha, seleccionar la textura segmentation Mask (que la acabamos de crear en la operación anterior) e invertir el Alpha.
+Finalmente, solo queda seleccionar de nuevo el material, activar el Alpha, seleccionar la textura Segmentation Mask (que la acabamos de crear en la operación anterior) e invertir el Alpha.
 
 ¡Y ya tenemos nuestro efecto de segmentación!
 
