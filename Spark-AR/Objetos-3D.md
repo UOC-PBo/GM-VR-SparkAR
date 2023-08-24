@@ -14,7 +14,7 @@ Como podéis comprobar, el sombrero tiene unas dimensiones inadecuadas. Esto se 
 
 ![image.png](uploads/d22bc985d84c3e08100829c7d83a8877/image.png)
 
-Ahora queremos que este objeto se ancle al rostro detectado, en vez que quedarse fijo en el centro de la pantalla. Para ello, necesitaremos un sistema de [Face Tracking](Spark-AR/Face-Tracking) que añadimos a la escena. Finalmente, simplemente con asignar el sombrero como hijo del _face tracking_, ya se moverá en sincronía con la cabeza 
+Ahora queremos que este objeto se ancle al rostro detectado, en vez que quedarse fijo en el centro de la pantalla. Para ello, necesitaremos un sistema de [Face Tracking](Face-Tracking.md) que añadimos a la escena. Finalmente, simplemente con asignar el sombrero como hijo del _face tracking_, ya se moverá en sincronía con la cabeza 
 
 ![image](uploads/b418f24a81012e436aebb8e936f5b08e/image.png)
 
