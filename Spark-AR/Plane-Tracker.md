@@ -8,7 +8,7 @@ Como hemos dicho, este _plane tracker_ es un sistema que usa Spark AR para detec
 
 ![image.png](uploads/18d3edaa45ddc0d16edd4cf66d82296b/image.png)
 
-Una vez seleccionada, vamos a importar un objeto 3D a la escena. Podéis ver más detalles de cómo hacer este proceso en la sección [Objetos 3D](Objetos-3D). En todo caso, clicando en el botón con el símbolo + encima de una carpeta en la parte inferior izquierda, se abre un catálogo de objetos 3D para importar.
+Una vez seleccionada, vamos a importar un objeto 3D a la escena. Podéis ver más detalles de cómo hacer este proceso en la sección [Objetos 3D](Objetos-3D.md). En todo caso, clicando en el botón con el símbolo + encima de una carpeta en la parte inferior izquierda, se abre un catálogo de objetos 3D para importar.
 
 ![image.png](uploads/84220e20aecb8c05ddcc4fdd5510829b/image.png)
 
