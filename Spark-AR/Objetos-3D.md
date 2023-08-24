@@ -1,6 +1,6 @@
-En esta sección, veremos cómo hacer efectos con objetos 3D. Deberéis haber seguido los tutoriales de [Spark Editor](Spark-AR/Studio) y [Face Tracking](Spark-AR/Face-Tracking) para poder seguir esta parte sin problemas.
+En esta sección, veremos cómo hacer efectos con objetos 3D. Deberéis haber seguido los tutoriales de [Spark Editor](Studio.md) y [Face Tracking](Face-Tracking.md) para poder seguir esta parte sin problemas.
 
-Empecemos por hacer un efecto sencillo con un objeto 3D. Pondremos un sombrero encima de la cabeza que detecte el sistema de [Face Tracking](Spark-AR/Face-Tracking). 
+Empecemos por hacer un efecto sencillo con un objeto 3D. Pondremos un sombrero encima de la cabeza que detecte el sistema de [Face Tracking](Spark-AR/Face-Tracking.md). 
 
 Antes de empezar, vamos a importar el objeto 3D. Podemos usar cualquier fichero propio, o bien explorar la galería de objetos 3D de Sketchfab o Meta Spark. Para hacer pruebas, recomendamos utilizar estas galerías, ya que contienen una gran cantidad de objetos y la mayoría se pueden descargar de manera gratuita. Accederemos a estas galerías apretando el botón con el símbolo + encima de una carpeta, en la parte inferior izquierda. Seguidamente, podemos usar el buscador situado en la parte superior izquierda para filtrar lo que estamos buscando.
 
