@@ -48,7 +48,7 @@ Podeu seguir [aquest enllaç](Spark-AR/Studio.md) per tenir una primera impressi
 
 Podeu utilitzar els següents enllaços per aconseguir els objectius d'aquesta sèrie de tutorials:
 
-- [Face Tracking](Spark-AR/Face-tracking.md): rastrejar la cara a través de la cambra i usar el _face tracking_ per ancorar contingut 2D/3D, com a màscares facials i imatges, en l'escena.
+- [Face Tracking](Spark-AR/Face-Tracking.md): rastrejar la cara a través de la cambra i usar el _face tracking_ per ancorar contingut 2D/3D, com a màscares facials i imatges, en l'escena.
 - [Plane Tracker](Spark-AR/Plane-tracker.md): utilitzar el _plane tracker_ per col·locar objectes 3D en la vista de la càmera.
 - [Objectes 3D](Spark-AR/Objetos-3d.md): importar continguts 3D i usar-los en els efectes.
 - [Animacions](Spark-AR/Animaciones.md): importar i animar continguts 3D.
