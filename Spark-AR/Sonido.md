@@ -22,3 +22,31 @@ Como un proyecto puede tener varios controladores de sonido, hay que configurar 
 
 ---
 [Página previa](Segmentación.md)
+
+
+# Versió catalana
+
+En aquesta secció aprendrem a afegir efectes de so.
+
+Començarem amb un projecte buit i importarem algun arxiu de so de la llibreria d'Spark. A continuació crearem un _àudio playback controller_ en la secció d'Assets.
+
+![image](uploads/6648d64494f111644246b918e82c33da/image.png) 
+
+És necessari que aquest controlador estigui configurat per dir-li quin àudio ha de reproduir. Per a això, anem a les propietats i en el desplegable d'Àudio seleccionem l'arxiu que acabem d'importar.
+
+![image](uploads/67dac6f892b8610e0faafc0ad1c8c1d8/image.png) 
+
+Seguidament, cal configurar l'escena perquè aquest controlador estigui present. En concret, hem d'afegir un Speaker, que és el que indica a Spark que l'escena té so.
+
+![image](uploads/51d96b49c946b1aadba0817124b03da5/image.png) 
+
+Com que un projecte pot tenir diversos controladors de so, cal configurar l'Speaker que acabem de crear perquè utilitzi el controlador que hem afegit anteriorment.
+
+![image](uploads/2827d22676415cacb6e8f9733aed4f52/image.png)
+
+Ja només ens queda indicar al controlador que faci Play perquè s'escolti en l'escena!
+
+![image.png](uploads/23cf382c62e78b030b521dcb1c9f4f41/image.png)
+
+---
+[Pàgina prèvia](Segmentación.md)
