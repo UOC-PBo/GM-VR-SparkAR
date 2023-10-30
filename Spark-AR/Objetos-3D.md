@@ -34,3 +34,44 @@ Ya solo nos queda situar y orientar correctamente el sombrero para que el efecto
 
 ---
 [Página previa](Plane-Tracker.md) - [página siguiente](Animaciones.md)
+
+
+
+# Versió catalana
+
+En aquesta secció veurem com podem fer efectes amb objectes en 3D. Haureu d'haver seguit els tutorials de [Spark Editor](Studio.md) i [Face Tracking](Face-tracking.md) per poder seguir aquesta part sense problemes.
+
+Comencem per fer un efecte senzill amb un objecte en 3D. Posarem un barret damunt del cap que detecti el sistema de [Face Tracking](Face-tracking.md). 
+
+Abans de començar, importarem l'objecte en 3D. Podem usar qualsevol fitxer propi o bé explorar la galeria d'objectes en 3D d'Sketchfab o Meta Spark. Per fer proves, recomanem utilitzar aquestes galeries, ja que contenen una gran quantitat d'objectes i la majoria es poden descarregar de manera gratuïta. Accedirem a aquestes galeries prement el botó amb el símbol + damunt d'una carpeta, en la part inferior esquerra. Seguidament, podem usar el cercador situat en la part superior esquerra per filtrar el que estem buscant.
+
+![image](uploads/89fa1b94c8e14956a7dc6070a5209352/image.png) 
+
+Si trieu un objecte d'Sketchfab, haureu d'acceptar les condicions i després importar l'objecte. En aquest exemple, triem un barret de copa amb un bitllet del Titanic. Ho podem afegir a l'escena simplement arrossegant-ho des de la secció d'Assets fins a la secció de Scene.
+
+![image](uploads/2b69f327e0dbd2fc3cdcecd7d1ebb818/image.png)
+
+Com podeu comprovar, el barret té unes dimensions inadequades. Això es deu al fet que simplement es va modelar en una altra escala (per exemple, hi ha programes de modelatge on cada unitat representa 10 cm i uns altres on representa 1 m), i hem d'ajustar-ho a l'escala del nostre projecte. Una escala d'uns 0,12 en cada eix es veurà correcta.
+
+![image.png](uploads/d22bc985d84c3e08100829c7d83a8877/image.png)
+
+Ara volem que aquest objecte s'ancori al rostre detectat en comptes de quedar-se fix en el centre de la pantalla. Per a això, necessitarem un sistema de [Face Tracking](Face-tracking.md), que afegim a l'escena. Finalment, simplement assignant el barret com a fill del _face tracking_ ja es mourà en sincronia amb el cap. 
+
+![image](uploads/b418f24a81012e436aebb8e936f5b08e/image.png)
+
+Però aquí no acaba el nostre treball amb l'efecte, ja que podeu observar que el barret oculta la cara detectada. Spark AR ens ofereix una solució amb l'objecte Head Occluder, que podrem trobar en la galeria:
+
+![image](uploads/e268247e10219a24be609a2a93f9573f/image.png) 
+
+Afegint aquest objecte a l'escena i situant-lo com a fill del _face tracker_, veureu que Spark AR genera una malla en la posició del cap (delineada en blau) i oculta la part posterior del barret. 
+
+![image](uploads/4e110b6ab7905aa1116ee219e019d46f/image.png)
+
+Ja només ens queda situar i orientar correctament el barret perquè l'efecte es vegi sense errors. En el nostre exemple, unes coordenades que funcionen són (0; 0,05; -0,1) per _x_, _i_, _z_, amb la rotació (-100; 0; 0).
+
+![image.png](uploads/8b305464f6ede044d083cb9f18a2abed/image.png)
+
+I ja està completat el nostre exemple!
+
+---
+[Pàgina prèvia](Plane-tracker.md) - [pàgina següent](Animaciones.md)
