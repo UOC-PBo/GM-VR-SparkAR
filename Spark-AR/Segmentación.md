@@ -32,3 +32,42 @@ Finalmente, solo queda seleccionar de nuevo el material, activar el Alpha, selec
 
 ---
 [Página previa](Patch-Editor.md) - [página siguiente](Sonido.md)
+
+
+
+# Versió catalana
+
+En aquesta secció veurem com podem implementar una de les funcionalitats més populars dels efectes d'Spark: la segmentació.
+
+Amb aquest terme, ens referim a aquells efectes que distingeixen el fons d'objectes en primer pla. Normalment, en primer pla solem tenir persones i volem canviar el fons. A continuació et mostrem un exemple.
+
+Començarem amb un projecte d'exemple, el Face Decoration, i en la secció d'Scene afegirem un rectangle.
+
+![image](uploads/a28f75897c580a7d45e20741d315b67f/image.png) 
+
+Volem que aquest rectangle ocupi tota la pantalla, i per això editarem les propietats de Width i Height perquè emplenin tot l'espai amb Fill Width i Fill Height.
+
+![image](uploads/64464cc0dd3cc5813c3c13b0967f895c/image.png) 
+
+És possible que els exemples d'Spark AR no funcionin bé i hàgiu d'habilitar la càmera del vostre ordinador. 
+
+![image](uploads/3d9665c0153a9c0b8f37df347cabc57d/image.png) 
+
+Una vegada fets aquests passos, crearem un material per al rectangle. 
+
+![image.png](uploads/e98e423431a73e1ffe6dfeeabd7a24c7/image.png)
+
+Una vegada creat, li posarem una imatge com a textura. Podeu usar la que vulgueu. Serà el que es mostri de fons.
+
+![image.png](uploads/4b21a91abc8ebcd59607b7dd5ae98331/image.png)
+
+Ara seleccionem la càmera i afegirem Segmentation, que és el sistema d'Spark per reconèixer cares i persones. 
+
+![image.png](uploads/df6cada3b4a1ee2904e4b3ea3c86a9bd/image.png)
+
+Finalment, només queda seleccionar de nou el material, activar l'Alpha, seleccionar la textura Segmentation Mask, que acabem de crear en l'operació anterior, i invertir l'Alpha.
+
+I ja tenim el nostre efecte de segmentació!
+
+---
+[Pàgina prèvia](Patch-editor.md) - [pàgina següent](Sonido.md)
