@@ -39,9 +39,9 @@ Ya solo nos queda situar y orientar correctamente el sombrero para que el efecto
 
 # Versió catalana
 
-En aquesta secció veurem com podem fer efectes amb objectes en 3D. Haureu d'haver seguit els tutorials de [Spark Editor](Studio.md) i [Face Tracking](Face-tracking.md) per poder seguir aquesta part sense problemes.
+En aquesta secció veurem com podem fer efectes amb objectes en 3D. Haureu d'haver seguit els tutorials de [Spark Editor](Studio.md) i [Face Tracking](Face-Tracking.md) per poder seguir aquesta part sense problemes.
 
-Comencem per fer un efecte senzill amb un objecte en 3D. Posarem un barret damunt del cap que detecti el sistema de [Face Tracking](Face-tracking.md). 
+Comencem per fer un efecte senzill amb un objecte en 3D. Posarem un barret damunt del cap que detecti el sistema de [Face Tracking](Face-Tracking.md). 
 
 Abans de començar, importarem l'objecte en 3D. Podem usar qualsevol fitxer propi o bé explorar la galeria d'objectes en 3D d'Sketchfab o Meta Spark. Per fer proves, recomanem utilitzar aquestes galeries, ja que contenen una gran quantitat d'objectes i la majoria es poden descarregar de manera gratuïta. Accedirem a aquestes galeries prement el botó amb el símbol + damunt d'una carpeta, en la part inferior esquerra. Seguidament, podem usar el cercador situat en la part superior esquerra per filtrar el que estem buscant.
 
