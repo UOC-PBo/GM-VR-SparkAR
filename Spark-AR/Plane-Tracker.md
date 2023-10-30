@@ -25,7 +25,7 @@ De esta manera, el objeto se quedará fijo respecto al plano, mientras la cámar
 
 # Versió catalana
 
-En aquesta secció veurem com podem utilitzar Plane Tracker en Spark AR per detectar superfícies planes. El concepte és similar al [_face tracking_](Face-tracking.md) que hem vist en la secció corresponent, ja que aquest sistema utilitza la càmera per detectar un rostre i executar accions, mentre que un _plane tracker_ detecta una superfície plana per executar les accions que hàgim programat en el nostre efecte.
+En aquesta secció veurem com podem utilitzar Plane Tracker en Spark AR per detectar superfícies planes. El concepte és similar al [_face tracking_](Face-Tracking.md) que hem vist en la secció corresponent, ja que aquest sistema utilitza la càmera per detectar un rostre i executar accions, mentre que un _plane tracker_ detecta una superfície plana per executar les accions que hàgim programat en el nostre efecte.
 
 El primer pas és afegir un _plane tracker_ a l'escena:
 
@@ -35,7 +35,7 @@ Com hem dit, aquest _plane tracker_ és un sistema que usa Spark AR per detectar
 
 ![image.png](uploads/18d3edaa45ddc0d16edd4cf66d82296b/image.png)
 
-Una vegada seleccionada, importarem un objecte en 3D a l'escena. Podeu veure més detalls de com fer aquest procés en la secció [Objectes 3D](Objetos-3d.md). En tot cas, clicant en el botó amb el símbol + damunt d'una carpeta en la part inferior esquerra, s'obre un catàleg d'objectes en 3D per importar.
+Una vegada seleccionada, importarem un objecte en 3D a l'escena. Podeu veure més detalls de com fer aquest procés en la secció [Objectes 3D](Objetos-3D.md). En tot cas, clicant en el botó amb el símbol + damunt d'una carpeta en la part inferior esquerra, s'obre un catàleg d'objectes en 3D per importar.
 
 ![image.png](uploads/84220e20aecb8c05ddcc4fdd5510829b/image.png)
 
