@@ -46,4 +46,4 @@ En el nostre exemple, hem triat l'objecte Wolf Head Statuine i, en fer-ho, ens a
 D'aquesta manera, l'objecte es quedarà fix respecte al pla mentre la càmera es mou al voltant de l'espai. I ja tenim el nostre efecte amb un _plane tracker_! És possible que faci falta ajustar qüestions com la rotació o escala de l'objecte en l'escena. Això és normal, ja que a vegades els objectes estan modelats amb dimensions diferents (per exemple, polzades enfront de centímetres) i cal ajustar l'escala.
 
 ---
-[Pàgina prèvia](Face-tracking.md) - [pàgina següent](Objetos-3d.md)
+[Pàgina prèvia](Face-Tracking.md) - [pàgina següent](Objetos-3D.md)
