@@ -33,7 +33,7 @@ Podeu utilitzar els enllaços següents per aconseguir els objectius d'aquesta s
 - [Plane Tracker](Plane-Tracker.md): utilitzar el _plane tracker_ per col·locar objectes en 3D en la vista de la càmera.
 - [Objectes 3D](Objetos-3D.md): importar continguts en 3D i usar-los en els efectes.
 - [Animacions](Animaciones.md): importar i animar continguts en 3D.
-- [Patch Editor](Patch-editor.md): programar efectes perquè siguin més dinàmics i interactius amb Patch Editor.
+- [Patch Editor](Patch-Editor.md): programar efectes perquè siguin més dinàmics i interactius amb Patch Editor.
 - [Segmentació](Segmentación.md): utilitzar la segmentació per extreure l'usuari de l'entorn i col·locar-lo en un entorn completament nou.
 - [So](Sonido.md): manipular el so o la veu de l'usuari.
 
