@@ -109,5 +109,5 @@ Ara, per indicar a Spark que volem que el braç es mogui, cal editar els camps d
 I ja tenim l'animació completa!
 
 ---
-[Pàgina prèvia](Objetos-3d.md) - [pàgina següent](Patch-editor.md)
+[Pàgina prèvia](Objetos-3D.md) - [pàgina següent](Patch-Editor.md)
 
