@@ -55,7 +55,7 @@ Com podeu comprovar, el barret té unes dimensions inadequades. Això es deu al 
 
 ![image.png](uploads/d22bc985d84c3e08100829c7d83a8877/image.png)
 
-Ara volem que aquest objecte s'ancori al rostre detectat en comptes de quedar-se fix en el centre de la pantalla. Per a això, necessitarem un sistema de [Face Tracking](Face-tracking.md), que afegim a l'escena. Finalment, simplement assignant el barret com a fill del _face tracking_ ja es mourà en sincronia amb el cap. 
+Ara volem que aquest objecte s'ancori al rostre detectat en comptes de quedar-se fix en el centre de la pantalla. Per a això, necessitarem un sistema de [Face Tracking](Face-Tracking.md), que afegim a l'escena. Finalment, simplement assignant el barret com a fill del _face tracking_ ja es mourà en sincronia amb el cap. 
 
 ![image](uploads/b418f24a81012e436aebb8e936f5b08e/image.png)
 
@@ -67,7 +67,7 @@ Afegint aquest objecte a l'escena i situant-lo com a fill del _face tracker_, ve
 
 ![image](uploads/4e110b6ab7905aa1116ee219e019d46f/image.png)
 
-Ja només ens queda situar i orientar correctament el barret perquè l'efecte es vegi sense errors. En el nostre exemple, unes coordenades que funcionen són (0; 0,05; -0,1) per _x_, _i_, _z_, amb la rotació (-100; 0; 0).
+Ja només ens queda situar i orientar correctament el barret perquè l'efecte es vegi sense errors. En el nostre exemple, unes coordenades que funcionen són (0; 0,05; -0,1) per _x_, _y_, _z_, amb la rotació (-100; 0; 0).
 
 ![image.png](uploads/8b305464f6ede044d083cb9f18a2abed/image.png)
 
