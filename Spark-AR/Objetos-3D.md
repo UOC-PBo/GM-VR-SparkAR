@@ -74,4 +74,4 @@ Ja només ens queda situar i orientar correctament el barret perquè l'efecte es
 I ja està completat el nostre exemple!
 
 ---
-[Pàgina prèvia](Plane-tracker.md) - [pàgina següent](Animaciones.md)
+[Pàgina prèvia](Plane-Tracker.md) - [pàgina següent](Animaciones.md)
