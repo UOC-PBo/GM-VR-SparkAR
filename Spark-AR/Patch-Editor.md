@@ -18,7 +18,7 @@ Como podréis ver, hay muchísimas opciones y no sería practicable explicarlas 
 
 - Scripting en Spark
 
-Para hacer efectos complejos, normalmente requeriremos programación. Spark AR ofrece esa posibilidad mediante JavaScript o Typescript. En este tutorial no haremos una iniciación al lenguaje, sino que daremos por supuesto un mínimo conocimiento. Para añadir un _script_ simplemente tenemos que hacer clic derecho en la sección de Assets y seleccionar Add Asset, Script y luego el lenguaje que prefiráis. 
+Para hacer efectos complejos, normalmente requeriremos programación. Spark AR ofrece esa posibilidad mediante JavaScript o TypeScript. En este tutorial no haremos una iniciación al lenguaje, sino que daremos por supuesto un mínimo conocimiento. Para añadir un _script_ simplemente tenemos que hacer clic derecho en la sección de Assets y seleccionar Add Asset, Script y luego el lenguaje que prefiráis. 
 
 ![image](uploads/caae86dddfb2f1419643a4209ff7aaf4/image.png)
 
@@ -71,7 +71,7 @@ Com podreu veure, hi ha moltíssimes opcions i no seria practicable explicar-les
 
 - Scripting en Spark
 
-Per fer efectes complexos, normalment requerirem programació. Spark AR ofereix aquesta possibilitat mitjançant Javascript o Typescript. En aquest tutorial no farem una iniciació al llenguatge, sinó que donarem per descomptat un mínim coneixement. Per afegir un _script_, simplement hem de fer clic dret en la secció d'Assets i seleccionar Add Asset, Script i després el llenguatge que es prefereixi. 
+Per fer efectes complexos, normalment requerirem programació. Spark AR ofereix aquesta possibilitat mitjançant JavaScript o TypeScript. En aquest tutorial no farem una iniciació al llenguatge, sinó que donarem per descomptat un mínim coneixement. Per afegir un _script_, simplement hem de fer clic dret en la secció d'Assets i seleccionar Add Asset, Script i després el llenguatge que es prefereixi. 
 
 ![image](uploads/caae86dddfb2f1419643a4209ff7aaf4/image.png)
 
@@ -85,7 +85,7 @@ Primer afegirem un _face tracker_ en l'escena. Seguidament, posarem un cub en As
 
 ![image](uploads/eea540c8f5ed99560ff255af10ab2c84/image.png)
 
-Ara crearem un _script_ en Javascript i escriurem el codi següent:
+Ara crearem un _script_ en JavaScript i escriurem el codi següent:
 
 ![image](uploads/92fa29dbc2354533711b53e91b59040d/image.png)
 
