@@ -70,4 +70,4 @@ Finalment, només queda seleccionar de nou el material, activar l'Alpha, selecci
 I ja tenim el nostre efecte de segmentació!
 
 ---
-[Pàgina prèvia](Patch-editor.md) - [pàgina següent](Sonido.md)
+[Pàgina prèvia](Patch-Editor.md) - [pàgina següent](Sonido.md)
