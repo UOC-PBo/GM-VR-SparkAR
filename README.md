@@ -38,26 +38,26 @@ Por favor, diríjanse a la página sobre Spark AR
 
 
 
-## Per a començar
+## Per començar
 
-En aquest tutorial, veurem com utilitzar Spark AR per desenvolupar les nostres primeres aplicacions.
+En aquest tutorial veurem com podem utilitzar Spark AR per desenvolupar les nostres primeres aplicacions.
 
-Abans de començar, haureu d'instal·lar-vos [Spark Studio](https://sparkar.facebook.com/ar-studio/) i usar el vostre compte de Meta (Facebook). 
+Abans de començar haureu d'instal·lar-vos [Spark Studio](https://sparkar.facebook.com/ar-studio/) i usar el vostre compte de Meta (Facebook). 
 
-Podeu seguir [aquest enllaç](Spark-AR/Studio.md) per tenir una primera impressió de la interfície de Spark Studio i entendre què simbolitza cada part.
+Podeu seguir [aquest enllaç](Spark-AR/Studio.md) per tenir una primera impressió de la interfície d'Spark Studio i entendre què simbolitza cada part.
 
-Podeu utilitzar els següents enllaços per aconseguir els objectius d'aquesta sèrie de tutorials:
+Podeu utilitzar els enllaços següents per aconseguir els objectius d'aquesta sèrie de tutorials:
 
-- [Face Tracking](Spark-AR/Face-Tracking.md): rastrejar la cara a través de la cambra i usar el _face tracking_ per ancorar contingut 2D/3D, com a màscares facials i imatges, en l'escena.
-- [Plane Tracker](Spark-AR/Plane-tracker.md): utilitzar el _plane tracker_ per col·locar objectes 3D en la vista de la càmera.
-- [Objectes 3D](Spark-AR/Objetos-3d.md): importar continguts 3D i usar-los en els efectes.
-- [Animacions](Spark-AR/Animaciones.md): importar i animar continguts 3D.
+- [Face Tracking](Spark-AR/Face-tracking.md): rastrejar la cara a través de la cambra i usar el _face tracking_ per ancorar contingut en 2D/3D, com màscares facials i imatges, en l'escena.
+- [Plane Tracker](Spark-AR/Plane-tracker.md): utilitzar el _plane tracker_ per col·locar objectes en 3D en la vista de la càmera.
+- [Objectes 3D](Spark-AR/Objetos-3d.md): importar continguts en 3D i usar-los en els efectes.
+- [Animacions](Spark-AR/Animaciones.md): importar i animar continguts en 3D.
 - [Patch Editor](Spark-AR/Patch-editor.md): programar efectes perquè siguin més dinàmics i interactius amb Patch Editor.
 - [Segmentació](Spark-AR/Segmentación.md): utilitzar la segmentació per extreure l'usuari de l'entorn i col·locar-lo en un entorn completament nou.
 - [So](Spark-AR/Sonido.md): manipular el so o la veu de l'usuari.
 
 
-Si us plau, dirigeixin-se a la pàgina sobre Spark AR
+Si us plau, dirigiu-vos a la pàgina sobre Spark AR
 [[Spark-AR]](Spark-AR/Readme.md).
 
 
