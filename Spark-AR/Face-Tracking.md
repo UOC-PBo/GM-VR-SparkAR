@@ -86,4 +86,4 @@ I ja està! Una vegada seleccionat, el nostre efecte ja estarà acabat.
 ![image](uploads/d9c1aab75831dca3c35cebb02d9e99f7/image.png)
 
 ---
-[Pàgina prèvia](Studio.md) - [pàgina següent](Plane-tracker.md)
+[Pàgina prèvia](Studio.md) - [pàgina següent](Plane-Tracker.md)
