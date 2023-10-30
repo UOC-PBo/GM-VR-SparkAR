@@ -48,16 +48,16 @@ Podeu seguir [aquest enllaç](Spark-AR/Studio.md) per tenir una primera impressi
 
 Podeu utilitzar els enllaços següents per aconseguir els objectius d'aquesta sèrie de tutorials:
 
-- [Face Tracking](Spark-AR/Face-tracking.md): rastrejar la cara a través de la cambra i usar el _face tracking_ per ancorar contingut en 2D/3D, com màscares facials i imatges, en l'escena.
-- [Plane Tracker](Spark-AR/Plane-tracker.md): utilitzar el _plane tracker_ per col·locar objectes en 3D en la vista de la càmera.
-- [Objectes 3D](Spark-AR/Objetos-3d.md): importar continguts en 3D i usar-los en els efectes.
+- [Face Tracking](Spark-AR/Face-Tracking.md): rastrejar la cara a través de la cambra i usar el _face tracking_ per ancorar contingut en 2D/3D, com màscares facials i imatges, en l'escena.
+- [Plane Tracker](Spark-AR/Plane-Tracker.md): utilitzar el _plane tracker_ per col·locar objectes en 3D en la vista de la càmera.
+- [Objectes 3D](Spark-AR/Objetos-3D.md): importar continguts en 3D i usar-los en els efectes.
 - [Animacions](Spark-AR/Animaciones.md): importar i animar continguts en 3D.
-- [Patch Editor](Spark-AR/Patch-editor.md): programar efectes perquè siguin més dinàmics i interactius amb Patch Editor.
+- [Patch Editor](Spark-AR/Patch-Editor.md): programar efectes perquè siguin més dinàmics i interactius amb Patch Editor.
 - [Segmentació](Spark-AR/Segmentación.md): utilitzar la segmentació per extreure l'usuari de l'entorn i col·locar-lo en un entorn completament nou.
 - [So](Spark-AR/Sonido.md): manipular el so o la veu de l'usuari.
 
 
 Si us plau, dirigiu-vos a la pàgina sobre Spark AR
-[[Spark-AR]](Spark-AR/Readme.md).
+[[Spark-AR]](Spark-AR/README.md).
 
 
