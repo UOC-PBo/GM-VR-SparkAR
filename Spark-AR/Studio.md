@@ -54,4 +54,4 @@ En aquesta secció veurem com podem navegar amb la interfície d'Spark Studio. �
 Una vegada provades, es poden publicar clicant en el botó de Publish i seguint les instruccions.
 
 ---
-[Pàgina prèvia](Readme.md) - [pàgina següent](Face-tracking.md)
+[Pàgina prèvia](README.md) - [pàgina següent](Face-Tracking.md)
