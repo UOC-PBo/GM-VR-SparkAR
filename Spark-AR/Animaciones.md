@@ -50,3 +50,64 @@ Ahora para indicarle a Spark que queremos que el brazo se mueva, hay que editar 
 
 ---
 [Página previa](Objetos-3D.md) - [página siguiente](Patch-Editor.md)
+
+
+
+
+
+
+# Versió catalana
+
+En aquesta secció aprendrem a treballar amb animacions. El primer pas serà baixar-nos [aquest exemple](https://sparkar.facebook.com/ar-studio/learn/tutorials/3d-objects-animation) de Meta (l'empresa creadora de Spark) per tenir una base amb els elements necessaris per veure els diversos aspectes.
+
+Les animacions en Spark AR es controlen mitjançant un _animation playback controller_. En creem un fent clic dret en la secció d'Assets i seleccionant Add Asset -\> Playback Controller -\> Animation Playback Controller: 
+
+![image](uploads/184f005fc66e4969e5922e8bce190462/image.png)
+
+Ara indicarem a l'_animation playback controller_ que volem que gestioni l'animació que tenim en el projecte per a l'os de peluix.
+
+![image](uploads/0f61b22d5bf2f7110d977f1a9b5b2dc2/image.png)
+
+Ara en la secció Scene associarem aquest _animation playback controller_ a l'os de peluix. Seleccionem l'objecte Teddy i, en el desplegable de la configuració d'Animation, cliquem en l'objecte que acabem de crear. 
+
+![image](uploads/fbec6bb9245acb36d3d159ef378ebc24/image.png)
+
+Veureu que, tan bon punt afegim el _controller_, l'os de peluix començarà a animar-se. Teniu diverses opcions disponibles en l'_animation playback controller_ per controlar les animacions. La majoria són bastant autoexplicatives.
+
+![image.png](uploads/fd3bcb6cf6d5d022975c2f647245900e/image.png)
+
+Una opció encara més interessant és aprendre a generar animacions manualment. Abans fer-ho, hem d'entendre la base de funcionament de les animacions.
+
+El primer concepte que hem d'entendre és _keyframes_. Podem entendre una animació com una sèrie de posicions una darrere l'altra durant un interval de temps. Seria impracticable definir-ho per a cada instant perquè el temps és continu. Fins i tot encara que decidíssim discretitzar el temps, hauríem de decidir cada quant temps definir cada mostra. Si decidíssim definir-lo, per exemple, a una velocitat de 60 Hz, en pantalles de 120 Hz tindríem errors, però tampoc no podríem estar constantment pujant de valor perquè el límit seria infinit.
+
+Els _keyframes_ són la solució a aquest problema. Són, en essència, les posicions rellevants, on hi ha algun canvi, i una animació interpola totes les posicions entre aquests _keyframes_. És a dir, si tenim un _keyframe_ A, B i C, totes les posicions intermèdies entre A i B es calculen amb la interpolació dels valors, i el mateix passa entre B i C.
+
+El segon concepte és el de _skeleton_ ('esquelet'). Suposem que tenim un objecte en 3D amb milers de vèrtexs i el volem animar per parts, com, per exemple, un humanoide que mogui els braços independentment de les cames. Si haguéssim de definir com es mouen tots els vèrtexs un a un, generar animacions per objectes complexos seria impracticable. Per facilitar-nos la tasca, necessitem un _skeleton_. És una estructura de dades que defineix de manera molt simplificada com es mouen els vèrtexs en relació amb un punt de referència o articulació. Per exemple, quan girem el colze, l'avantbraç es desplaça però l'espatlla no. La generació d'esquelets és una tasca de qui modeli l'objecte i surt de l'abast d'aquest tutorial.
+
+En el nostre exemple tenim el Teddy amb l'esquelet ja definit. Si anem recorrent l'objecte seleccionant les fletxes, veurem on està cada articulació.
+
+![image.png](uploads/2844fb11141bc72d9dd918f2cd975485/image.png)
+
+Ara crearem una animació a mà, sense utilitzar les animacions ja definides en el model. El primer pas és esborrar l'_animation playback controller_ perquè, si no, Spark AR sempre el prendrà com el sistema que controla el moviment de l'objecte. Seguidament, farem clic en l'articulació que volem animar. En aquest cas, animarem el braç dret, per la qual cosa seleccionarem arm_r. Quan cliquem en la fletxa de la propietat de rotació, se'ns crearà un Patch i veurem el Patch Editor en la part inferior d'Spark Studio.
+
+![image.png](uploads/b02e8b809db60b416246c677f4618a5c/image.png)
+
+Patch Editor serà el nostre sistema de control d'animacions, en el qual definirem com es comporta l'animació. Si volem que saludi, necessitarem que l'animació es repeteixi, per la qual cosa afegirem un _loop animation_ al nostre patch fent clic dret i seleccionant Loop Animation i Add Patch.
+
+![image.png](uploads/72d6b9d69a6b9214223a682da6270f6c/image.png)
+
+A continuació indicarem al Patch Editor que volem canviar valors d'algun component. Ho podem fer afegint una _transition_, que haurem de connectar.
+
+![image.png](uploads/a2e2013ac14ff6cc7d28699a9395ce22/image.png)
+
+La idea del Patch Editor és poder fer canvis visualment sense haver d'editar codi i consisteix a connectar nodes els uns amb els altres. En el nostre cas, volem que l'animació es repeteixi, i per això connectarem Loop Animation amb Transition en la part de Progress. Això indica a Spark que Loop controla que Transition es repeteixi. També volem que Transition afecti el braç, i això ho indiquem connectant la sortida de Transition amb arm_r, que recordem que controla el braç de Teddy.
+
+Ara, per indicar a Spark que volem que el braç es mogui, cal editar els camps d'Start i End en el node Transition. En concret, fent proves podem veure que, si indiquem que End tingui els valors 0, 0 i 30, queda una animació semblant a una salutació. Només resta arreglar un problema, i és que, en acabar, l'animació torna instantàniament a l'inici. El que volem és que torni al principi suaument, i això ho podem fer marcant l'opció de Mirrored en el Loop Animation.
+
+![image.png](uploads/d776975fed07995c74b30e1a69bd8ed0/image.png)
+
+I ja tenim l'animació completa!
+
+---
+[Pàgina prèvia](Objetos-3d.md) - [pàgina següent](Patch-editor.md)
+
